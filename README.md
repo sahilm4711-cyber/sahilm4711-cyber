@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Currently pursuing BCA (2nd Year)<br>🔐 Learning Cybersecurity and security fundamentals<br>🐍 Practicing Python programming for automation and problem-solving<br>💻 Learning Frontend Web Development (HTML, CSS, JavaScript)<br>🛡️ Interested in ethical hacking and secure application development<br>📈 Focused on continuous learning and skill improvement in technology
+🎓 Currently pursuing BCA (3nd Year)<br>🔐 Learning Cybersecurity and security fundamentals<br>🐍 Practicing Python programming for automation and problem-solving<br>💻 Learning Frontend Web Development (HTML, CSS, JavaScript)<br>🛡️ Interested in ethical hacking and secure application development<br>📈 Focused on continuous learning and skill improvement in technology
 
 
 ## 🌐 Socials:
