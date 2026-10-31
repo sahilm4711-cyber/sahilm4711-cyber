@@ -1,3 +1,5 @@
+![Matrix Code Animation - Professor](matrix-banner.svg)
+
 # Hi, I'm Professor 👋
 
 ### Aspiring Red Team Professional | Cybersecurity Learner | BCA Final Year
