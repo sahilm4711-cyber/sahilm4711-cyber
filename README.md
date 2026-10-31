@@ -2,10 +2,9 @@
 
 # Hi, I'm Professor 👋
 
-### Aspiring Red Team Professional | Cybersecurity Learner | BCA Final Year
+### Aspiring Red Team Professional | Cybersecurity Learner
 
 ## 💫 About Me:
-🎓 Final Year BCA student<br>
 🎯 Aspiring Red Team professional — learning step-by-step, lab only<br>
 🐧 Linux (Kali) — basic commands, filesystem, permissions<br>
 🌐 Networking — IP, ports, TCP/UDP, DNS, VPN basics<br>
