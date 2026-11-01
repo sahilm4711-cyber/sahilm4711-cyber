@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-label="Matrix code animation with profile photo - Professor">
+  <defs>
+    <linearGradient id="prof" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00ff41"><animate attributeName="stop-color" values="#00ff41;#67e8f9;#00ff41" dur="4s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#67e8f9"><animate attributeName="stop-color" values="#67e8f9;#00ff41;#67e8f9" dur="4s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <clipPath id="photoClip"><circle cx="600" cy="140" r="95"/></clipPath>
+  </defs>
+  <rect width="1200" height="520" fill="#000000"/>
+  <rect width="1200" height="520" fill="#001a00" opacity="0.35"/>
+  <g fill="#00ff41" font-family="monospace" font-size="18" opacity="0.55">
+    <text x="40" y="-20"><tspan x="40" dy="22">1</tspan><tspan x="40" dy="22">0</tspan><tspan x="40" dy="22">1</tspan><tspan x="40" dy="22">0</tspan><tspan x="40" dy="22">0</tspan><tspan x="40" dy="22">0</tspan><tspan x="40" dy="22">1</tspan><tspan x="40" dy="22">0</tspan><tspan x="40" dy="22">0</tspan><tspan x="40" dy="22">0</tspan><tspan x="40" dy="22">0</tspan><tspan x="40" dy="22">1</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -260" to="0 520" dur="6.0s" begin="0.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="6.0s" begin="0.0s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g fill="#00ff41" font-family="monospace" font-size="18" opacity="0.55">
+    <text x="110" y="-20"><tspan x="110" dy="22">1</tspan><tspan x="110" dy="22">0</tspan><tspan x="110" dy="22">0</tspan><tspan x="110" dy="22">0</tspan><tspan x="110" dy="22">1</tspan><tspan x="110" dy="22">0</tspan><tspan x="110" dy="22">0</tspan><tspan x="110" dy="22">0</tspan><tspan x="110" dy="22">0</tspan><tspan x="110" dy="22">1</tspan><tspan x="110" dy="22">0</tspan><tspan x="110" dy="22">0</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -260" to="0 520" dur="6.7s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="6.7s" begin="0.5s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g fill="#00ff41" font-family="monospace" font-size="18" opacity="0.55">
+    <text x="180" y="-20"><tspan x="180" dy="22">0</tspan><tspan x="180" dy="22">0</tspan><tspan x="180" dy="22">1</tspan><tspan x="180" dy="22">1</tspan><tspan x="180" dy="22">0</tspan><tspan x="180" dy="22">0</tspan><tspan x="180" dy="22">1</tspan><tspan x="180" dy="22">0</tspan><tspan x="180" dy="22">0</tspan><tspan x="180" dy="22">0</tspan><tspan x="180" dy="22">1</tspan><tspan x="180" dy="22">0</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -260" to="0 520" dur="7.4s" begin="1.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="7.4s" begin="1.0s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g fill="#00ff41" font-family="monospace" font-size="18" opacity="0.55">
+    <text x="250" y="-20"><tspan x="250" dy="22">0</tspan><tspan x="250" dy="22">0</tspan><tspan x="250" dy="22">0</tspan><tspan x="250" dy="22">1</tspan><tspan x="250" dy="22">1</tspan><tspan x="250" dy="22">1</tspan><tspan x="250" dy="22">1</tspan><tspan x="250" dy="22">1</tspan><tspan x="250" dy="22">1</tspan><tspan x="250" dy="22">1</tspan><tspan x="250" dy="22">0</tspan><tspan x="250" dy="22">0</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -260" to="0 520" dur="8.1s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="8.1s" begin="1.5s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g fill="#00ff41" font-family="monospace" font-size="18" opacity="0.55">
+    <text x="320" y="-20"><tspan x="320" dy="22">0</tspan><tspan x="320" dy="22">0</tspan><tspan x="320" dy="22">1</tspan><tspan x="320" dy="22">1</tspan><tspan x="320" dy="22">1</tspan><tspan x="320" dy="22">1</tspan><tspan x="320" dy="22">1</tspan><tspan x="320" dy="22">0</tspan><tspan x="320" dy="22">0</tspan><tspan x="320" dy="22">1</tspan><tspan x="320" dy="22">0</tspan><tspan x="320" dy="22">1</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -260" to="0 520" dur="8.8s" begin="0.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="8.8s" begin="0.0s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g fill="#00ff41" font-family="monospace" font-size="18" opacity="0.55">
+    <text x="390" y="-20"><tspan x="390" dy="22">0</tspan><tspan x="390" dy="22">1</tspan><tspan x="390" dy="22">1</tspan><tspan x="390" dy="22">0</tspan><tspan x="390" dy="22">0</tspan><tspan x="390" dy="22">1</tspan><tspan x="390" dy="22">1</tspan><tspan x="390" dy="22">1</tspan><tspan x="390" dy="22">1</tspan><tspan x="390" dy="22">1</tspan><tspan x="390" dy="22">0</tspan><tspan x="390" dy="22">0</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -260" to="0 520" dur="6.0s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="6.0s" begin="0.5s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g fill="#00ff41" font-family="monospace" font-size="18" opacity="0.55">
+    <text x="460" y="-20"><tspan x="460" dy="22">1</tspan><tspan x="460" dy="22">1</tspan><tspan x="460" dy="22">0</tspan><tspan x="460" dy="22">0</tspan><tspan x="460" dy="22">1</tspan><tspan x="460" dy="22">1</tspan><tspan x="460" dy="22">1</tspan><tspan x="460" dy="22">1</tspan><tspan x="460" dy="22">1</tspan><tspan x="460" dy="22">0</tspan><tspan x="460" dy="22">1</tspan><tspan x="460" dy="22">1</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -260" to="0 520" dur="6.7s" begin="1.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="6.7s" begin="1.0s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g fill="#00ff41" font-family="monospace" font-size="18" opacity="0.55">
+    <text x="530" y="-20"><tspan x="530" dy="22">0</tspan><tspan x="530" dy="22">0</tspan><tspan x="530" dy="22">1</tspan><tspan x="530" dy="22">0</tspan><tspan x="530" dy="22">0</tspan><tspan x="530" dy="22">1</tspan><tspan x="530" dy="22">0</tspan><tspan x="530" dy="22">0</tspan><tspan x="530" dy="22">1</tspan><tspan x="530" dy="22">1</tspan><tspan x="530" dy="22">1</tspan><tspan x="530" dy="22">0</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -260" to="0 520" dur="7.4s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="7.4s" begin="1.5s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g fill="#00ff41" font-family="monospace" font-size="18" opacity="0.55">
+    <text x="600" y="-20"><tspan x="600" dy="22">0</tspan><tspan x="600" dy="22">1</tspan><tspan x="600" dy="22">1</tspan><tspan x="600" dy="22">1</tspan><tspan x="600" dy="22">0</tspan><tspan x="600" dy="22">1</tspan><tspan x="600" dy="22">1</tspan><tspan x="600" dy="22">1</tspan><tspan x="600" dy="22">1</tspan><tspan x="600" dy="22">1</tspan><tspan x="600" dy="22">0</tspan><tspan x="600" dy="22">0</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -260" to="0 520" dur="8.1s" begin="0.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="8.1s" begin="0.0s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g fill="#00ff41" font-family="monospace" font-size="18" opacity="0.55">
+    <text x="670" y="-20"><tspan x="670" dy="22">0</tspan><tspan x="670" dy="22">0</tspan><tspan x="670" dy="22">0</tspan><tspan x="670" dy="22">0</tspan><tspan x="670" dy="22">0</tspan><tspan x="670" dy="22">0</tspan><tspan x="670" dy="22">1</tspan><tspan x="670" dy="22">0</tspan><tspan x="670" dy="22">1</tspan><tspan x="670" dy="22">1</tspan><tspan x="670" dy="22">0</tspan><tspan x="670" dy="22">0</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -260" to="0 520" dur="8.8s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="8.8s" begin="0.5s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g fill="#00ff41" font-family="monospace" font-size="18" opacity="0.55">
+    <text x="740" y="-20"><tspan x="740" dy="22">1</tspan><tspan x="740" dy="22">1</tspan><tspan x="740" dy="22">1</tspan><tspan x="740" dy="22">0</tspan><tspan x="740" dy="22">0</tspan><tspan x="740" dy="22">1</tspan><tspan x="740" dy="22">1</tspan><tspan x="740" dy="22">1</tspan><tspan x="740" dy="22">1</tspan><tspan x="740" dy="22">1</tspan><tspan x="740" dy="22">0</tspan><tspan x="740" dy="22">1</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -260" to="0 520" dur="6.0s" begin="1.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="6.0s" begin="1.0s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g fill="#00ff41" font-family="monospace" font-size="18" opacity="0.55">
+    <text x="810" y="-20"><tspan x="810" dy="22">1</tspan><tspan x="810" dy="22">0</tspan><tspan x="810" dy="22">0</tspan><tspan x="810" dy="22">0</tspan><tspan x="810" dy="22">0</tspan><tspan x="810" dy="22">1</tspan><tspan x="810" dy="22">0</tspan><tspan x="810" dy="22">0</tspan><tspan x="810" dy="22">1</tspan><tspan x="810" dy="22">0</tspan><tspan x="810" dy="22">0</tspan><tspan x="810" dy="22">0</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -260" to="0 520" dur="6.7s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="6.7s" begin="1.5s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g fill="#00ff41" font-family="monospace" font-size="18" opacity="0.55">
+    <text x="880" y="-20"><tspan x="880" dy="22">0</tspan><tspan x="880" dy="22">0</tspan><tspan x="880" dy="22">1</tspan><tspan x="880" dy="22">0</tspan><tspan x="880" dy="22">0</tspan><tspan x="880" dy="22">0</tspan><tspan x="880" dy="22">1</tspan><tspan x="880" dy="22">0</tspan><tspan x="880" dy="22">1</tspan><tspan x="880" dy="22">1</tspan><tspan x="880" dy="22">1</tspan><tspan x="880" dy="22">1</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -260" to="0 520" dur="7.4s" begin="0.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="7.4s" begin="0.0s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g fill="#00ff41" font-family="monospace" font-size="18" opacity="0.55">
+    <text x="950" y="-20"><tspan x="950" dy="22">0</tspan><tspan x="950" dy="22">0</tspan><tspan x="950" dy="22">1</tspan><tspan x="950" dy="22">1</tspan><tspan x="950" dy="22">1</tspan><tspan x="950" dy="22">1</tspan><tspan x="950" dy="22">1</tspan><tspan x="950" dy="22">0</tspan><tspan x="950" dy="22">0</tspan><tspan x="950" dy="22">0</tspan><tspan x="950" dy="22">1</tspan><tspan x="950" dy="22">1</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -260" to="0 520" dur="8.1s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="8.1s" begin="0.5s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g fill="#00ff41" font-family="monospace" font-size="18" opacity="0.55">
+    <text x="1020" y="-20"><tspan x="1020" dy="22">1</tspan><tspan x="1020" dy="22">0</tspan><tspan x="1020" dy="22">0</tspan><tspan x="1020" dy="22">0</tspan><tspan x="1020" dy="22">1</tspan><tspan x="1020" dy="22">0</tspan><tspan x="1020" dy="22">0</tspan><tspan x="1020" dy="22">1</tspan><tspan x="1020" dy="22">0</tspan><tspan x="1020" dy="22">1</tspan><tspan x="1020" dy="22">1</tspan><tspan x="1020" dy="22">0</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -260" to="0 520" dur="8.8s" begin="1.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="8.8s" begin="1.0s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g fill="#00ff41" font-family="monospace" font-size="18" opacity="0.55">
+    <text x="1090" y="-20"><tspan x="1090" dy="22">1</tspan><tspan x="1090" dy="22">0</tspan><tspan x="1090" dy="22">1</tspan><tspan x="1090" dy="22">0</tspan><tspan x="1090" dy="22">0</tspan><tspan x="1090" dy="22">0</tspan><tspan x="1090" dy="22">1</tspan><tspan x="1090" dy="22">0</tspan><tspan x="1090" dy="22">0</tspan><tspan x="1090" dy="22">1</tspan><tspan x="1090" dy="22">1</tspan><tspan x="1090" dy="22">0</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -260" to="0 520" dur="6.0s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="6.0s" begin="1.5s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g fill="#00ff41" font-family="monospace" font-size="18" opacity="0.55">
+    <text x="1160" y="-20"><tspan x="1160" dy="22">0</tspan><tspan x="1160" dy="22">1</tspan><tspan x="1160" dy="22">1</tspan><tspan x="1160" dy="22">1</tspan><tspan x="1160" dy="22">0</tspan><tspan x="1160" dy="22">1</tspan><tspan x="1160" dy="22">1</tspan><tspan x="1160" dy="22">1</tspan><tspan x="1160" dy="22">1</tspan><tspan x="1160" dy="22">0</tspan><tspan x="1160" dy="22">0</tspan><tspan x="1160" dy="22">0</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0 -260" to="0 520" dur="6.7s" begin="0.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="6.7s" begin="0.0s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <rect x="0" y="0" width="1200" height="520" fill="black" opacity="0.35"/>
+  <circle cx="600" cy="140" r="102" fill="none" stroke="#00ff41" stroke-width="4" opacity="0.9"/>
+  <circle cx="600" cy="140" r="95" fill="#000000"/>
+  <image href="data:image/jpeg;base64,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" x="505" y="45" width="190" height="190" clip-path="url(#photoClip)" preserveAspectRatio="xMidYMid slice"/>
+  <text x="600" y="330" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800" fill="url(#prof)">Professor
+    <animate attributeName="opacity" values="1;0.75;1" dur="2.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="600" y="375" text-anchor="middle" font-family="monospace" font-size="26" fill="#00ff41">Aspiring Red Team Professional
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+  </text>
+  <text x="600" y="415" text-anchor="middle" font-family="monospace" font-size="18" fill="#bae6fd">Linux  •  Networking  •  Python  •  Web  •  Lab Only</text>
+  <rect x="380" y="440" width="440" height="3" fill="#00ff41" opacity="0.8">
+    <animate attributeName="width" values="0;440;0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>

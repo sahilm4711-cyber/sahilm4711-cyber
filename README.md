@@ -1,4 +1,4 @@
-![Matrix Code Animation - Professor](matrix-banner.svg)
+![Matrix Code Animation with Profile Photo - Professor](matrix-photo-banner.svg)
 
 # Hi, I'm Professor 👋
 
